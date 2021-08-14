@@ -19,11 +19,6 @@
         "name": "Harry",
         "salary": "5000",
         "id": 4
-      },
-      {
-        "name": "Harry",
-        "salary": "5000",
-        "id": 5
       }
     ]
   }
